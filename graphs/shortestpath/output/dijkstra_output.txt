@@ -1,0 +1,59 @@
+OK    Taarbæk Skole -> EK Firskovvej
+OK    Taarbæk Havn -> Strandvejen 329
+OK    Strandvejen 329 -> Taarbæk Havn
+
+=== VEJNETTET ===
+EK Firskovvej
+   -> Lyngby Station (2,5 km)
+   -> Frilandsmuseet (3,5 km)
+Frilandsmuseet
+   -> Taarbæk (5,5 km)
+   -> Lyngby Station (2,0 km)
+   -> EK Firskovvej (3,5 km)
+Karen Blixen Museet
+   -> Taarbæk (8,0 km)
+   -> Lyngby Station (11,0 km)
+Klampenborg Station
+   -> Taarbæk (2,0 km)
+   -> Lyngby Station (7,0 km)
+   -> Strandvejen 329 (1,0 km)
+Lyngby Station
+   -> Taarbæk (6,0 km)
+   -> Klampenborg Station (7,0 km)
+   -> EK Firskovvej (2,5 km)
+   -> Frilandsmuseet (2,0 km)
+   -> Karen Blixen Museet (11,0 km)
+Strandvejen 329
+   -> Klampenborg Station (1,0 km)
+Taarbæk
+   -> Taarbæk Havn (0,4 km)
+   -> Klampenborg Station (2,0 km)
+   -> Lyngby Station (6,0 km)
+   -> Frilandsmuseet (5,5 km)
+   -> Karen Blixen Museet (8,0 km)
+Taarbæk Havn
+   -> Taarbæk Skole (0,3 km)
+   -> Taarbæk (0,4 km)
+   -> Strandvejen 329 (1,5 km)
+Taarbæk Skole
+   -> Taarbæk Havn (0,3 km)
+
+=== KORTESTE AFSTAND FRA TAARBÆK SKOLE ===
+Taarbæk Skole          0,0 km
+Taarbæk Havn           0,3 km
+Taarbæk                0,7 km
+Strandvejen 329        1,8 km
+Klampenborg Station    2,7 km
+Frilandsmuseet         6,2 km
+Lyngby Station         6,7 km
+Karen Blixen Museet    8,7 km
+EK Firskovvej          9,2 km
+
+=== RUTEN FRA TAARBÆK SKOLE TIL EK FIRSKOVVEJ ===
+Taarbæk Skole          0,0 km
+Taarbæk Havn           0,3 km
+Taarbæk                0,7 km
+Lyngby Station         6,7 km
+EK Firskovvej          9,2 km
+
+Samlet afstand: 9,2 km

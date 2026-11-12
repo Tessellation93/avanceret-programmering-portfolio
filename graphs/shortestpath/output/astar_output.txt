@@ -1,0 +1,44 @@
+OK    E -> T
+OK    E -> K
+OK    E -> F
+OK    T -> S
+
+E = EK Firskovvej, F = Frilandsmuseet, T = Taarbæk Skole, S = Strandvejen 329,
+K = Karen Blixen Museet, # = kan ikke køres igennem, ~ = Øresund, * = ruten
+
+Fra E til T: 12 skridt
+  . . . . . . . . K ~ 
+  . F . . . . . . . ~ 
+  . * * * * * * * * ~ 
+  . E . # # # # # * ~ 
+  . . . # . . . # * ~ 
+  . # # # . # . # * ~ 
+  . . . # . # . . T ~ 
+  . . . # . . . # . ~ 
+  . # # # . S . . . ~ 
+  . . . . . . . . . . 
+
+Fra E til K: 10 skridt
+  . * * * * * * * K ~ 
+  . F . . . . . . . ~ 
+  . * . . . . . . . ~ 
+  . E . # # # # # . ~ 
+  . . . # . . . # . ~ 
+  . # # # . # . # . ~ 
+  . . . # . # . . T ~ 
+  . . . # . . . # . ~ 
+  . # # # . S . . . ~ 
+  . . . . . . . . . . 
+
+Fra T til S: 5 skridt
+  . . . . . . . . K ~ 
+  . F . . . . . . . ~ 
+  . . . . . . . . . ~ 
+  . E . # # # # # . ~ 
+  . . . # . . . # . ~ 
+  . # # # . # . # . ~ 
+  . . . # . # . . T ~ 
+  . . . # . . . # * ~ 
+  . # # # . S * * * ~ 
+  . . . . . . . . . . 
+
